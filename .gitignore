@@ -267,3 +267,6 @@ Hype
 #model
 model/config.json
 model/tf_model.h5
+
+
+.DS_Store
